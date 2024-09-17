@@ -1,6 +1,6 @@
 {
     "RH-test": {
         "version": "1.0",
-        "requiredBridge": "1.0"
+        "Bridge_version": "1.0"
     }
 }
